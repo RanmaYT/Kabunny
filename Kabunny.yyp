@@ -27,7 +27,9 @@
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"kingxz - main menu song.m4a","CopyToMask":-1,"filePath":"datafiles","name":"kingxz - main menu song.m4a","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
@@ -36,12 +38,13 @@
   "name":"Kabunny",
   "resources":[
     {"id":{"name":"fArial","path":"fonts/fArial/fArial.yy",},},
-    {"id":{"name":"obj_background","path":"objects/obj_background/obj_background.yy",},},
     {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},
-    {"id":{"name":"obj_titleMenu","path":"objects/obj_titleMenu/obj_titleMenu.yy",},},
+    {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},},
     {"id":{"name":"rm_MainMenu","path":"rooms/rm_MainMenu/rm_MainMenu.yy",},},
+    {"id":{"name":"main_menu_song","path":"sounds/main_menu_song/main_menu_song.yy",},},
+    {"id":{"name":"spr_background_title","path":"sprites/spr_background_title/spr_background_title.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
-    {"id":{"name":"spr_button_play","path":"sprites/spr_button_play/spr_button_play.yy",},},
+    {"id":{"name":"spr_play_button","path":"sprites/spr_play_button/spr_play_button.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
